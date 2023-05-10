@@ -1,0 +1,6 @@
+
+  -Ouvrir le ficher ch3.pcap avec wireshark
+
+  -Suivre le protocol HTTP en flux TCP
+
+  -Decoder en ASCIi la chaine de caractere encodée en base 64 et on obtient le mot de passe

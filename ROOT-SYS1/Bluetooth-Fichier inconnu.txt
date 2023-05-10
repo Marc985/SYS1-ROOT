@@ -1,0 +1,9 @@
+
+
+
+-Ouvrir le fichier ch18 avec wireshark
+
+-Cliquer sur wireless et aller dans "Equipements Bluetooth" afin d'identifier l'adresse mac du pc et le nom du telephone
+
+-Concatener l'adresse mac avec le nom du telephone et convertir tous les miniscules en majuscules
+-Encoder en SHA1 et on obtient le mot de passe

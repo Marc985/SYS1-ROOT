@@ -1,0 +1,9 @@
+   
+
+   -cliquer sur le bouton demarrer
+   
+   -Une nouvelle onglet contenant des codes hexadecimal s'ouvrent
+   
+   -Decoder ces caracteres en utilisant des convertisseur en ASCII
+   
+   -On y trouve une chaine de caractere encodée en base 64 puis on decode et le mot de passe s'affiche.

@@ -1,0 +1,5 @@
+
+  
+ -Ouvrir le fichier ch1 avec wireshark
+ 
+ -Faire un click droit sur le protocol FTP et le suivre en flux TCP

@@ -1,0 +1,7 @@
+  
+
+-Ouvrir le fichier ch2 avec wireshark
+
+-Suivre en flux TCP le protocole TELNET
+
+-Le mot de passe s'affiche
